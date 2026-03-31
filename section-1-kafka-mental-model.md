@@ -358,8 +358,9 @@ illustrates creating a topic with three partitions and then writing several keye
   --property "key.separator=:"
 ```
 
-Here is an example set of records that might be written. Each line has a key (before the colon)
-and a value (the JSON payload after the colon):
+Here is an example set of records that might be written. The `key.separator=:` property in the
+command above tells the producer to treat everything before the colon as the key and everything
+after it as the value:
 
 ```
 order-1:{"orderId":"order-1","item":"laptop","qty":1}
