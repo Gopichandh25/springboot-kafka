@@ -301,7 +301,7 @@ You will see output showing each partition, the current offset, the log-end offs
 
 Before moving to Section 2, confirm you can answer these:
 
-- [x] Kafka is a distributed commit log, not a request-response system
+- [ ] Kafka is a distributed commit log, not a request-response system
 - [ ] I can explain why the same key always goes to the same partition
 - [ ] I can explain why ordering is only guaranteed within a partition
 - [ ] I understand that adding partitions later can break key-to-partition mapping
