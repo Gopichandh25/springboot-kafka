@@ -639,17 +639,15 @@ Your core study pillars should be:
 
 That order is the most useful path to becoming productive on a real Spring Boot Kafka application, and it matches how the Kafka and Spring Kafka docs themselves are structured around producer/consumer behavior, configuration, error handling, transactions, testing, and operations. ([Apache Kafka][1])
 
-I can turn this into a **day-by-day checklist with subtopics, mini-projects, and coding exercises** next.
-
-[1]: https://kafka.apache.org/documentation/?utm_source=chatgpt.com "Introduction | Apache Kafka"
-[2]: https://kafka.apache.org/42/design/design/?utm_source=chatgpt.com "Design | Apache Kafka"
-[3]: https://docs.spring.io/spring-boot/reference/messaging/kafka.html?utm_source=chatgpt.com "Apache Kafka Support :: Spring Boot"
-[4]: https://docs.confluent.io/platform/current/schema-registry/index.html?utm_source=chatgpt.com "Schema Registry for Confluent Platform"
-[5]: https://docs.confluent.io/platform/current/schema-registry/fundamentals/serdes-develop/index.html?utm_source=chatgpt.com "Formats, Serializers, and Deserializers for Schema ..."
-[6]: https://kafka.apache.org/41/configuration/producer-configs/?utm_source=chatgpt.com "Producer Configs | Apache Kafka"
-[7]: https://kafka.apache.org/41/configuration/consumer-configs/?utm_source=chatgpt.com "Consumer Configs | Apache Kafka"
-[8]: https://docs.spring.io/spring-kafka/reference/kafka.html?utm_source=chatgpt.com "Using Spring for Apache Kafka"
-[9]: https://docs.spring.io/spring-kafka/docs/2.2.x/reference/html/?utm_source=chatgpt.com "Spring for Apache Kafka"
-[10]: https://docs.spring.io/spring-kafka/docs/1.0.6.RELEASE/reference/html/?utm_source=chatgpt.com "Spring for Apache Kafka"
-[11]: https://kafka.apache.org/42/operations/monitoring/?utm_source=chatgpt.com "Monitoring - Apache Kafka"
-[12]: https://kafka.apache.org/42/security/authorization-and-acls/?utm_source=chatgpt.com "Authorization and ACLs | Apache Kafka"
+[1]: https://kafka.apache.org/documentation/ "Introduction | Apache Kafka"
+[2]: https://kafka.apache.org/42/design/design/ "Design | Apache Kafka"
+[3]: https://docs.spring.io/spring-boot/reference/messaging/kafka.html "Apache Kafka Support :: Spring Boot"
+[4]: https://docs.confluent.io/platform/current/schema-registry/index.html "Schema Registry for Confluent Platform"
+[5]: https://docs.confluent.io/platform/current/schema-registry/fundamentals/serdes-develop/index.html "Formats, Serializers, and Deserializers for Schema ..."
+[6]: https://kafka.apache.org/41/configuration/producer-configs/ "Producer Configs | Apache Kafka"
+[7]: https://kafka.apache.org/41/configuration/consumer-configs/ "Consumer Configs | Apache Kafka"
+[8]: https://docs.spring.io/spring-kafka/reference/kafka.html "Using Spring for Apache Kafka"
+[9]: https://docs.spring.io/spring-kafka/reference/ "Spring for Apache Kafka"
+[10]: https://docs.spring.io/spring-kafka/reference/testing.html "Spring for Apache Kafka - Testing"
+[11]: https://kafka.apache.org/42/operations/monitoring/ "Monitoring - Apache Kafka"
+[12]: https://kafka.apache.org/42/security/authorization-and-acls/ "Authorization and ACLs | Apache Kafka"
